@@ -1,0 +1,5 @@
+Oruga's CMSC 100 Expectations:
+I expect to understand ExpressJS better than I did before retaking this subject.
+I expect to enjoy using HTML, CSS and MongoDB. I like working with databases.
+I expect to use Git and GitHub constantly throughout the semester.
+I expect to have fun designing page layouts and executing them using HTML + CSS.
